@@ -1,0 +1,4 @@
+<button type="button" class="menu-tab-item" data-target="#carne-pasare">Preparate din carne de Pasare</button>
+                <button type="button" class="menu-tab-item" data-target="#garnituri/salate">Garnituri/Salate</button>
+                <button type="button" class="menu-tab-item" data-target="#paste">Paste</button>
+                <button type="button" class="menu-tab-item" data-target="#desert">Desert</button>

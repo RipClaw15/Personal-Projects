@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="insuranceModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'insurance.dbo.insurancedb' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="insurancedb">
+          <Property Name="id" Type="int" />
+          <Property Name="Policy_" Type="int" />
+          <Property Name="Expiry" Type="date" />
+          <Property Name="Location_" Type="varchar" MaxLength="10" />
+          <Property Name="State_" Type="varchar" MaxLength="10" />
+          <Property Name="Region" Type="varchar" MaxLength="10" />
+          <Property Name="InsuredValue" Type="varchar" MaxLength="10" />
+          <Property Name="Construction" Type="varchar" MaxLength="10" />
+          <Property Name="BusinessType" Type="varchar" MaxLength="10" />
+          <Property Name="Earthquake" Type="varchar" MaxLength="10" />
+          <Property Name="Flood" Type="varchar" MaxLength="10" />
+        </EntityType>-->
+  <EntityContainer Name="insuranceModelStoreContainer" />
+</Schema>

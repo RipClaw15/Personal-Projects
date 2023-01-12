@@ -1,0 +1,6 @@
+﻿  Proba2.cpp
+C:\Users\csong\source\repos\Proba2\Proba2\Proba2.cpp(107,7): warning C4101: 'hWnd': unreferenced local variable
+C:\Users\csong\source\repos\Proba2\Proba2\Proba2.cpp(611,6): warning C4101: 'i': unreferenced local variable
+C:\Users\csong\source\repos\Proba2\Proba2\Proba2.cpp(905,6): warning C4101: 'i': unreferenced local variable
+C:\Users\csong\source\repos\Proba2\Proba2\Proba2.cpp(376): warning C4715: 'dontetlenn': not all control paths return a value
+  Proba2.vcxproj -> C:\Users\csong\source\repos\Proba2\x64\Debug\Proba2.exe
