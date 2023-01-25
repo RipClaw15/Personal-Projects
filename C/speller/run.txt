@@ -1,0 +1,6 @@
+./speller texts/lalaland.txt > student.txt
+./speller50 texts/lalaland.txt > staff.txt
+./speller texts/lalaland.txt
+./speller50 texts/lalaland.txt
+diff -y student.txt staff.txt
+diff -y student.txt keys/lalaland.txt

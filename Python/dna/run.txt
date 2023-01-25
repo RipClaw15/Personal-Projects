@@ -1,0 +1,2 @@
+python dna.py databases/small.csv sequences/1.txt
+python dna.py databases/large.csv sequences/16.txt

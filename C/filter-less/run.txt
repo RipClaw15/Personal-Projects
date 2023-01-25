@@ -1,0 +1,4 @@
+./filter -g INFILE.bmp OUTFILE.bmp
+./filter -s INFILE.bmp OUTFILE.bmp
+./filter -r INFILE.bmp OUTFILE.bmp
+./filter -b INFILE.bmp OUTFILE.bmp
